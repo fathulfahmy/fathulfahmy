@@ -1,13 +1,12 @@
 # 👋 Hello, I'm Fathul
 
-- 🌱 I’m currently pursuing Software Engineering, Bachelor of Computer Science at UNITEN
-- 💞️ I’m looking to widen my skillset as a programmer
+ I’m currently pursuing Software Engineering, Bachelor of Computer Science at UNITEN
+ I’m looking to widen my skillset as a programmer
 
-# Skillset
+## Skillset
 
-- C++
-- HTML
-- CSS
+- C/C++
+- HTML CSS
 - Javascript
 - Bootstrap
 - MS Access
