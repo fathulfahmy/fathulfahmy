@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Fathul
-
- I’m currently pursuing Software Engineering, Bachelor of Computer Science at UNITEN
- I’m looking to widen my skillset as a programmer
+ BCs. Software Engineering Student at UNITEN
 
 ## Skillset
 
