@@ -5,8 +5,8 @@
 
 ## Skillset
 
-- C/C++
-- HTML CSS
-- Javascript
-- Bootstrap
-- MS Access
+* C/C++
+* HTML CSS
+* Javascript
+* Bootstrap
+* MS Access
