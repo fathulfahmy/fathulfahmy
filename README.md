@@ -9,4 +9,4 @@ BCs. Software Engineering Student at UNITEN
 * Bootstrap
 * MS Access
 
-### Current Project: https://fathulfahmyyy.github.io/responsiveWeb/
+### Current Project: https://fathulfahmyyy.github.io/responsive-web/
