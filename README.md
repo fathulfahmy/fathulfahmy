@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fathul Fahmy is an ambitious software engineering student with a strong focus on becoming a front-end developer. He is eager to explore the latest tools and technologies that will help him build better and more efficient applications.
 
 *   🌍  I'm based in Selangor, Malaysia
-*   🚀  I'm currently working on [Responsive Web Development](http://https://patuicode.github.io/responsive-web/)
+*   🚀  I'm currently working on [Responsive Web Development](http://https://fathulfahmy.github.io/responsive-web/)
 *   🧠  I'm learning Javascript
 
 ### Skills 
@@ -26,6 +26,6 @@ Fathul Fahmy is an ambitious software engineering student with a strong focus on
                   
                   
 <p align="left">                    
-<a href="https://www.github.com/patuicode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                         
+<a href="https://www.github.com/fathulfahmy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                         
 <a href="https://www.linkedin.com/in/fathulfahmy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
