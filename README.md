@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fathul
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Fathul
 ==============================================================================================================================
 
-Student. Developer. Graphic Designer.
--------------------------------------
+**`Student. Developer. Graphic Designer.`**
 
 Fathul Fahmy is an ambitious software engineering student with a strong focus on becoming a front-end developer. He is eager to explore the latest tools and technologies that will help him build better and more efficient applications.
 
