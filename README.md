@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **`Student. Developer. Graphic Designer.`**
 
-Fathul Fahmy is an ambitious software engineering student with a strong focus on becoming a front-end developer. He is eager to explore the latest tools and technologies that will help him build better and more efficient applications.
+I have a deep love for algorithms and problem-solving, as it fascinates me how programming can be so flexible in solving complex challenges. I am eager to apply my skills and knowledge to the professional work field and embark on new opportunities to grow and contribute to the tech industry.
 
 *   🌍  I'm based in Selangor, Malaysia
 *   🚀  I'm currently working on [Responsive Web Development](https://fathulfahmy.github.io/responsive-web/)
