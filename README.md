@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have a deep love for algorithms and problem-solving, as it fascinates me how programming can be so flexible in solving complex challenges.
 
 *   🌍  I'm based in Selangor, Malaysia
-*   🚀  I'm currently working on [HR Login Page](https://github.com/axeladib/hr-software)
-*   🧠  I'm learning Javascript, ExpressJS, MySQL
+*   🚀  I'm currently working on N/A
+*   🧠  I'm learning Javascript, ExpressJS, MySQL
 
 ### Skills 
 <p align="left">
