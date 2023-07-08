@@ -8,6 +8,7 @@ I have a deep love for algorithms and problem-solving, as it fascinates me how p
 *   🌍  I'm based in Selangor, Malaysia
 *   🚀  I'm currently working on N/A
 *   🧠  I'm learning MongoDB, ExpressJS, React and NodeJS
+*   🛠️  [Go to my latest project](https://marketplace.visualstudio.com/items?itemName=fathulfahmy.lunarkeymap)
 
 ### Skills 
 <p align="left">
