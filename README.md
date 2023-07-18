@@ -9,8 +9,7 @@ I have a deep love for algorithms and problem-solving, as it fascinates me how p
 *   🚀  I'm currently working on N/A
 *   🧠  I'm learning MongoDB, ExpressJS, React and NodeJS
 *   📝  [Go to my guides and tutorials](https://gist.github.com/fathulfahmy)
-*   🛠️  [Go to my latest project](https://marketplace.visualstudio.com/items?itemName=fathulfahmy.lunarkeymap)
-
+*   🛠️  [Go to my latest project](https://minkeyboardtester.netlify.app)
 ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
