@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have a deep love for algorithms and problem-solving, as it fascinates me how programming can be so flexible in solving complex challenges.
 
 *   🌍  I'm based in Selangor, Malaysia
-*   🚀  I'm currently working on [Min Keyboard Tester](https://minkeyboardtester.netlify.app)
+*   🚀  I'm currently working on [Portfolio Website with Flutter](https://github.com/fathulfahmy/portfolio)
 *   🧠  I'm learning MongoDB, ExpressJS, React and NodeJS
 *   📝  [Go to my guides and tutorials](https://gist.github.com/fathulfahmy)
 *   🛠️  [Go to my latest project](https://github.com/fathulfahmy/min-keyboard-tester)
