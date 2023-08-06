@@ -6,10 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have a deep love for algorithms and problem-solving, as it fascinates me how programming can be so flexible in solving complex challenges.
 
 *   🌍  I'm based in Selangor, Malaysia
-*   🚀  I'm currently working on [Portfolio Website with Flutter](https://github.com/fathulfahmy/portfolio)
-*   🧠  I'm learning MongoDB, ExpressJS, React and NodeJS
+*   🧠  I'm learning React
+*   🚀  [Go to my latest project](https://github.com/fathulfahmy/min-keyboard-tester)
 *   📝  [Go to my guides and tutorials](https://gist.github.com/fathulfahmy)
-*   🛠️  [Go to my latest project](https://github.com/fathulfahmy/min-keyboard-tester)
+
 ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
