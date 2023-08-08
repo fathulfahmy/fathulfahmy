@@ -43,11 +43,11 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="" alt="flutter logo"  />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="" alt="jquery logo"  />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="" alt="sass logo"  />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="" alt="postman logo"  />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="" alt="figma logo"  />
   <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="" alt="inkscape logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="" alt="sass logo"  />
 </div>
 
 ###
