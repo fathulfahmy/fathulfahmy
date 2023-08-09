@@ -25,11 +25,19 @@
 ###
 
 <p align="left">
-  I'm Fathul Fahmy from Malaysia<br><br>
-  🔭 I’m studying as BCs. Software Engineering student<br>
-  📚 I'm currently learning React<br>
-  ⚡ In my free time I draw and read
+  I'm Fathul Fahmy from Malaysia
 </p>
+<ul align="left">
+  <li>
+    I’m studying as BCS Software Engineering student
+  </li>
+  <li>
+    I'm currently learning React
+  </li>
+  <li>
+    In my free time I draw and read
+  </li>
+</ul>
 
 ###
 
