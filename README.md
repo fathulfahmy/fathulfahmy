@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/reddit-FF4500?&logo=reddit&logoColor=white&style=for-the-badge" height="25" alt ="reddit button"/>
   </a>
 
-  <a href="https:/discordapp.com/users/fathulfahmy/"/>
+  <a href="https://discordapp.com/users/fathulfahmy/"/>
     <img src="https://img.shields.io/badge/discord-5865F2?&logo=discord&logoColor=white&style=for-the-badge" height="25" alt ="discord button"/>
   </a>
 </div>
