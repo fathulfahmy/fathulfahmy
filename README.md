@@ -3,19 +3,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fathulfahmy" target="_blank">
+  <a href="https://www.linkedin.com/in/fathulfahmy">
      <img src="https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt ="linkedin button"/>
   </a>
   
-  <a href="mailto:mfathulfahmy@gmail.com" target="_blank">
+  <a href="mailto:mfathulfahmy@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?&logo=gmail&logoColor=white&style=for-the-badge" height="25" alt ="gmail button"/>
   </a>
 
-  <a href="https://www.reddit.com/user/fathulfahmy/" target="_blank">
+  <a href="https://www.reddit.com/user/fathulfahmy/">
     <img src="https://img.shields.io/badge/reddit-FF4500?&logo=reddit&logoColor=white&style=for-the-badge" height="25" alt ="reddit button"/>
   </a>
 
-  <a href="https://discordapp.com/users/fathulfahmy/" target="_blank">
+  <a href="https://discordapp.com/users/fathulfahmy/">
     <img src="https://img.shields.io/badge/discord-5865F2?&logo=discord&logoColor=white&style=for-the-badge" height="25" alt ="discord button"/>
   </a>
 </div>
