@@ -4,15 +4,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fathulfahmy">
-     <img src="https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt ="linkedin button"/>
+     <img src="https://img.shields.io/badge/linkedin-F5F5F5?&logo=linkedin&logoColor=black&style=for-the-badge" height="25" alt ="linkedin button"/>
   </a>
   
   <a href="mailto:mfathulfahmy@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335?&logo=gmail&logoColor=white&style=for-the-badge" height="25" alt ="gmail button"/>
+    <img src="https://img.shields.io/badge/gmail-F5F5F5?&logo=gmail&logoColor=black&style=for-the-badge" height="25" alt ="gmail button"/>
+  </a>
+
+  <a href="https://gist.github.com/fathulfahmy">
+    <img src="https://img.shields.io/badge/gist-F5F5F5?&logo=github&logoColor=black&style=for-the-badge" height="25" alt ="github gist button"/>
   </a>
 
   <a href="https://www.reddit.com/user/fathulfahmy/">
-    <img src="https://img.shields.io/badge/reddit-FF4500?&logo=reddit&logoColor=white&style=for-the-badge" height="25" alt ="reddit button"/>
+    <img src="https://img.shields.io/badge/reddit-F5F5F5?&logo=reddit&logoColor=black&style=for-the-badge" height="25" alt ="reddit button"/>
   </a>
 </div>
 
