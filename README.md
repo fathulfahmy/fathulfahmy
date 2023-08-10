@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <a href="https://visitorbadge.io/status?path=fathulfahmy"><img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=dimgray&countColor=dodgerblue" height="25"/></a>
+  <a href="https://visitorbadge.io/status?path=fathulfahmy"><img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=%23f5f5f5&countColor=dodgerblue" height="25"/></a>
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=fathulfahmy.fathulfahmy&left_text=Visitors"  /> -->
 </div>
 
