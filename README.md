@@ -4,18 +4,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fathulfahmy"/>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   
   <a href="mailto:mfathulfahmy@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fathulfahmy.fathulfahmy&left_text=Visitors"  />
+  <a href="https://visitorbadge.io/status?path=fathulfahmy"><img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=dimgray&countColor=dodgerblue" height="25"/></a>
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=fathulfahmy.fathulfahmy&left_text=Visitors"  /> -->
 </div>
 
 ###
@@ -27,12 +28,13 @@
 <p align="left">
   I'm Fathul Fahmy from Malaysia
 </p>
+
 <ul align="left">
   <li>
     I’m studying as BCS Software Engineering student
   </li>
   <li>
-    I'm currently learning React
+    I'm currently learning React.js
   </li>
   <li>
     In my free time I draw and read
@@ -72,8 +74,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1&icon_color=dodgerblue" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3&ring=dodgerblue&fire=dodgerblue&currStreakLabel=dodgerblue" height="170" alt="streak graph"  />
 </div>
 
 ###
