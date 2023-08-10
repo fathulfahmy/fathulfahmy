@@ -4,18 +4,26 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fathulfahmy"/>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+     <img src="https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt ="linkedin button"/>
   </a>
   
   <a href="mailto:mfathulfahmy@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/gmail-EA4335?&logo=gmail&logoColor=white&style=for-the-badge" height="25" alt ="gmail button"/>
+  </a>
+
+  <a href="https://www.reddit.com/user/fathulfahmy/"/>
+    <img src="https://img.shields.io/badge/reddit-FF4500?&logo=reddit&logoColor=white&style=for-the-badge" height="25" alt ="reddit button"/>
+  </a>
+
+  <a href="https:/discordapp.com/users/fathulfahmy/"/>
+    <img src="https://img.shields.io/badge/discord-5865F2?&logo=discord&logoColor=white&style=for-the-badge" height="25" alt ="discord button"/>
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://visitorbadge.io/status?path=fathulfahmy"><img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=%23f5f5f5&countColor=dodgerblue" height="25"/></a>
+  <a href="https://visitorbadge.io/status?path=fathulfahmy"><img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=%23f5f5f5&countColor=dodgerblue" height="25" alt="visitor count"/></a>
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=fathulfahmy.fathulfahmy&left_text=Visitors"  /> -->
 </div>
 
