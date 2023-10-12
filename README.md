@@ -42,7 +42,7 @@
     I’m studying as BCS Software Engineering student
   </li>
   <li>
-    I'm currently learning React.js
+    I'm currently learning Tailwind CSS and React.JS
   </li>
   <li>
     In my free time I draw and read
