@@ -24,7 +24,6 @@
 
 <div align="center">
   <a href="https://visitorbadge.io/status?path=fathulfahmy"><img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=%23f5f5f5&countColor=dodgerblue" height="25" alt="visitor count"/></a>
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=fathulfahmy.fathulfahmy&left_text=Visitors"  /> -->
 </div>
 
 ###
@@ -42,7 +41,7 @@
     I’m studying as BCS Software Engineering student
   </li>
   <li>
-    I'm currently learning Tailwind CSS and React.JS
+    I'm currently learning React
   </li>
   <li>
     In my free time I draw and read
@@ -63,7 +62,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo"  />
 <!-- <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="dart logo"  /> -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  />
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  /> -->
 <!-- <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="flutter logo"  /> -->
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery logo"  />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="tailwind logo"  />
