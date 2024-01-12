@@ -38,7 +38,7 @@
 
 <ul align="left">
   <li>
-    I’m studying as BCS Software Engineering student
+    I’m studying as a BCS Software Engineering student
   </li>
   <li>
     I'm currently learning React
@@ -61,9 +61,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo"  />
-<!-- <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="dart logo"  /> -->
-<!--   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  /> -->
-<!-- <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="flutter logo"  /> -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" alt="php logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery logo"  />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="tailwind logo"  />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap logo"  />
@@ -81,8 +80,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1&icon_color=dodgerblue" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3&ring=dodgerblue&fire=dodgerblue&currStreakLabel=dodgerblue" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1&icon_color=dodgerblue" height="170" alt="GitHub Stats"  />
+  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3&ring=dodgerblue&fire=dodgerblue&currStreakLabel=dodgerblue" height="170" alt="GitHub Streak"  />
 </div>
 
 ###
