@@ -3,20 +3,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fathulfahmy">
-     <img src="https://img.shields.io/badge/linkedin-F5F5F5?&logo=linkedin&logoColor=black&style=for-the-badge" height="25" alt ="linkedin button"/>
+  <a href="https://linkedin.com/in/fathulfahmy">
+     <img src="https://img.shields.io/badge/linkedin-F5F5F5?&logo=linkedin&logoColor=black&style=for-the-badge" height="25" alt ="Website button"/>
+  </a>
+
+  <a href="https://instagram.com/fathulfahmy">
+     <img src="https://img.shields.io/badge/instagram-F5F5F5?&logo=linkedin&logoColor=black&style=for-the-badge" height="25" alt ="instagram button"/>
   </a>
   
-  <a href="mailto:mfathulfahmy@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-F5F5F5?&logo=gmail&logoColor=black&style=for-the-badge" height="25" alt ="gmail button"/>
-  </a>
-
-  <a href="https://gist.github.com/fathulfahmy">
-    <img src="https://img.shields.io/badge/gist-F5F5F5?&logo=github&logoColor=black&style=for-the-badge" height="25" alt ="github gist button"/>
-  </a>
-
-  <a href="https://www.reddit.com/user/fathulfahmy/">
-    <img src="https://img.shields.io/badge/reddit-F5F5F5?&logo=reddit&logoColor=black&style=for-the-badge" height="25" alt ="reddit button"/>
+  <a href="https:/www.behance.net/fathulfahmy">
+     <img src="https://img.shields.io/badge/behance-F5F5F5?&logo=linkedin&logoColor=black&style=for-the-badge" height="25" alt ="behance button"/>
   </a>
 </div>
 
@@ -32,21 +28,13 @@
 
 ###
 
-<p align="left">
-  I'm Fathul Fahmy from Malaysia
-</p>
+I'm Fathul Fahmy from Malaysia  
 
-<ul align="left">
-  <li>
-    I’m studying as a BCS Software Engineering student
-  </li>
-  <li>
-    I'm currently learning React
-  </li>
-  <li>
-    In my free time I draw and read
-  </li>
-</ul>
+- 🌱 I’m currently learning **laravel**
+
+- 👨‍💻 All of my projects are available at [https://fathulfahmy.is-a.dev](https://fathulfahmy.is-a.dev)
+
+- 📫 How to reach me **mfathulfahmy@gmail.com**
 
 ###
 
@@ -55,21 +43,21 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/c-A8B9CC?&logo=c&logoColor=black&style=for-the-badge" alt ="c logo"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="cplusplus logo"  />
-  <img src="https://img.shields.io/badge/java-F44336?logo=openjdk&logoColor=white&style=for-the-badge" alt="java logo"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" alt="php logo"  />
+
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery logo"  />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="tailwind logo"  />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap logo"  />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="sass logo"  />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="postman logo"  />
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" alt="php logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/c-A8B9CC?&logo=c&logoColor=black&style=for-the-badge" alt ="c logo"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/java-F44336?logo=openjdk&logoColor=white&style=for-the-badge" alt="java logo"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="figma logo"  />
   <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" alt="inkscape logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="postman logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="linux logo"  />
 </div>
 
