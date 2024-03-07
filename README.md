@@ -34,7 +34,7 @@ I'm Fathul Fahmy from Malaysia
 
 - 📫 How to reach me **mfathulfahmy@gmail.com**
 
-- 📄 Know about my experiences [https://fathulfahmy.is-a.dev](https://fathulfahmy.is-a.dev)
+- 📄 Know about my experiences [https://fathulfahmy.pages.dev](https://fathulfahmy.pages.dev)
 
 ###
 
