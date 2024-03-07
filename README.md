@@ -22,9 +22,7 @@
   <a href="https://visitorbadge.io/status?path=fathulfahmy"><img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=%23f5f5f5&countColor=dodgerblue" height="25" alt="visitor count"/></a>
 </div>
 
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
+### 👩‍💻 About Me
 
 ###
 
@@ -32,13 +30,15 @@ I'm Fathul Fahmy from Malaysia
 
 - 🌱 I’m currently learning **laravel**
 
-- 👨‍💻 All of my projects are available at [https://fathulfahmy.is-a.dev](https://fathulfahmy.is-a.dev)
+- 👨‍💻 All of my projects are available at [https://github.com/fathulfahmy?tab=repositories](https://github.com/fathulfahmy?tab=repositories)
 
 - 📫 How to reach me **mfathulfahmy@gmail.com**
 
+- 📄 Know about my experiences [https://fathulfahmy.is-a.dev](https://fathulfahmy.is-a.dev)
+
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+### 🛠 Language and Tools
 
 ###
 
@@ -63,7 +63,7 @@ I'm Fathul Fahmy from Malaysia
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
+### 🔥 GitHub Stats
 
 ###
 
