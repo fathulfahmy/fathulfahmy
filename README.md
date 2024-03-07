@@ -11,7 +11,7 @@
      <img src="https://img.shields.io/badge/instagram-F5F5F5?&logo=linkedin&logoColor=black&style=for-the-badge" height="25" alt ="instagram button"/>
   </a>
   
-  <a href="https:/www.behance.net/fathulfahmy">
+  <a href="https://www.behance.net/fathulfahmy">
      <img src="https://img.shields.io/badge/behance-F5F5F5?&logo=linkedin&logoColor=black&style=for-the-badge" height="25" alt ="behance button"/>
   </a>
 </div>
