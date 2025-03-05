@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://my.linkedin.com/in/fathulfahmy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=e4e4e4&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=e2e8f0&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/fathulfahmy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&label=&color=e4e4e4&labelColor=&style=for-the-badge" height="24" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&label=&color=e2e8f0&labelColor=&style=for-the-badge" height="24" alt="behance logo"  />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://visitorbadge.io/status?path=fathulfahmy" target="_blank">
-    <img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=%23e4e4e7&countColor=dodgerblue&labelStyle=upper" height="24" alt="visitors count"/>
+    <img src="https://api.visitorbadge.io/api/visitors?path=fathulfahmy&labelColor=%23e2e8f0&countColor=dodgerblue&labelStyle=upper" height="24" alt="visitors count"/>
   </a>
 </div>
 
@@ -73,8 +73,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&bg_color=e2e8f0" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&background=e2e8f0" height="150" alt="streak graph"  />
 </div>
 
 ###
